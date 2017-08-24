@@ -32,8 +32,11 @@ CNC machines help one easy to make models out of wood and also helps in PCB desi
 <p align= "center">
   <img src="http://www.general.ca/images/machines/6_cnc/6_machines/40-913.png">
 </p> 
+
 ## VINYL CUTTER
 Vinyl printing is a method of printing that is generally limited to a 1 colour print. The artwork is required in a vector format which is produced in a software package i.e. Adobe Illustrator or Corel Draw, this artwork format produces the design in lines as opposed to pixels as in a jpeg image. The artwork is sent in mirror image to the vinyl cutter, which is very much like a large printer, however instead of using ink it uses a blade. Once the image has been etched into the vinyl, the vinyl can then be removed from the cutter. The excess vinyl surrounding the image can be weeded (removed) from the backing sheet, once this has removed you will be left with your design.
 <p align= "center">
   <img src="https://rebosystems-nl-8umldh56xough.stackpathdns.com/wp-content/uploads/2015/12/HW-transparant-EN.png">
 </p> 
+
+[GO TO HOME](https://arjunhari2704.github.io/)
