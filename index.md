@@ -27,9 +27,12 @@ The Epilog Zing Laser Starter Series is Epilog's small format, high-quality engr
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkmYTbB-6AIqShJ98JyQQ0cjJ6it1VbcqAtbRZA00dyair5k7u">
 </p>
 
-[<p align= "right">Go to HOMEPAGE </p>](https://arjunhari2704.github.io/) https://youtu.be/SqXEU9n84ig
+[<p align= "right">Go to HOMEPAGE </p>](https://arjunhari2704.github.io/) https://youtu.be/8dYM2rlqkW0
 
-<video src="video_2017-08-13_20-26-41.mp4" width="320" height="200" controls preload></video>
+<video src="How to solve cube by ZAYEDSHAFAN.K.mp4" width="320" height="200" controls preload></video>
+
+
+
 ## 3D PRINTING
 3D printing, also known as additive manufacturing (AM), refers to processes used to create a three-dimensional object in which layers of material are formed under computer control to create an object.Objects can be of almost any shape or geometry and are produced using digital model data from a 3D model or another electronic data source such as an Additive Manufacturing File (AMF) file. STL is one of the most common file types that 3D printers can read. Thus, unlike material removed from a stock in the conventional machining process, 3D printing or AM builds a three-dimensional object from computer-aided design (CAD) model or AMF file by successively adding material layer by layer.[3]
 
