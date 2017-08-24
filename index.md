@@ -27,7 +27,7 @@ The Epilog Zing Laser Starter Series is Epilog's small format, high-quality engr
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkmYTbB-6AIqShJ98JyQQ0cjJ6it1VbcqAtbRZA00dyair5k7u">
 </p>
 
-[<p align= "right">Go to HOMEPAGE </p>](https://arjunhari2704.github.io/)
+[<p align= "right">Go to HOMEPAGE </p>](https://arjunhari2704.github.io/)https://youtu.be/SqXEU9n84ig
 
 <video src="video_2017-08-13_20-26-41.mp4" width="320" height="200" controls preload></video>
 ## 3D PRINTING
