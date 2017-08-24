@@ -13,6 +13,23 @@ Our college is one of the few enginnering colleges which offers this facility. T
   <img src="http://www.anuragchugh.com/_/rsrc/1467891596424/logos/fabfoundationindialogo.png">
 </p>
 
+# MANUFACTURE TECHNIQUES
+1. LASER PRINTING
+2. 3D PRINTER 
+3. CNC MACHINE
+
+## LASER PRINTING
+Laser cutting is a technology that uses a laser to cut materials, and is typically used for industrial manufacturing applications, but is also starting to be used by schools, small businesses, and hobbyists. Laser cutting works by directing the output of a high-power laser most commonly through optics. The laser optics and CNC (computer numerical control) are used to direct the material or the laser beam generated. A typical commercial laser for cutting materials would involve a motion control system to follow a CNC or G-code of the pattern to be cut onto the material. The focused laser beam is directed at the material, which then either melts, burns, vaporizes away, or is blown away by a jet of gas,[1] leaving an edge with a high-quality surface finish. Industrial laser cutters are used to cut flat-sheet material as well as structural and piping materials.
+### DEVICE DETAILS
+#### Epilog Zing Laser Series
+The Epilog Zing Laser Starter Series is Epilog's small format, high-quality engraving line. Perfect for everything from home use to starting a business, the Epilog Zing Laser features high-quality engraving, at the low cost for which you're looking. The Epilog Zing is a great choice with its excellent engraving quality and low price.It is 100% designed, engineered and built in the USA!
+<p align= "center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkmYTbB-6AIqShJ98JyQQ0cjJ6it1VbcqAtbRZA00dyair5k7u">
+</p>
+
+
+
+
 
 
 
