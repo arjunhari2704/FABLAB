@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+<font size="+5">
+<p align= "center">
+  <b> FAB LAB </b>
+  </p></font>
+  
+  A fab lab is typically equipped with an array of flexible computer-controlled tools that cover several different length scales and various materials, with the aim to make "almost anything".This includes technology-enabled products generally perceived as limited to mass production.
 
-You can use the [editor on GitHub](https://github.com/arjunhari2704/FABLAB/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+While fab labs have yet to compete with mass production and its associated economies of scale in fabricating widely distributed products, they have already shown the potential to empower individuals to create smart devices for themselves. These devices can be tailored to local or personal needs in ways that are not practical or economical using mass production.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Our college is one of the few enginnering colleges which offers this facility. The fablab at MESCE Kuttippuram was opened in the year 2017. It is also one of the first college to set up such a lab in Kerala.
+<p align= "center">
+  <img src="https://en.wikipedia.org/wiki/Fab_lab#/media/File:Fab_Lab_logo.svg">
 
-### Markdown
+</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+
+
+
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arjunhari2704/FABLAB/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
