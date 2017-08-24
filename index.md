@@ -9,7 +9,7 @@ Our college is one of the few enginnering colleges which offers this facility. T
 </p> 
 
 # MANUFACTURE TECHNIQUES
-1. [LASER PRINTING](https://arjunhari2704.github.io/LASER-CUTTER/)
+[1. LASER PRINTING](https://arjunhari2704.github.io/LASER-CUTTER/)
 2. 3D PRINTER 
 3. CNC MACHINE
 4. VINYL PRINTING
