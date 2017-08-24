@@ -11,7 +11,7 @@ Our college is one of the few enginnering colleges which offers this facility. T
 
 <p align= "center">
   <img src="http://www.anuragchugh.com/_/rsrc/1467891596424/logos/fabfoundationindialogo.png">
-</p>
+</p> 
 
 # MANUFACTURE TECHNIQUES
 1. LASER PRINTING
