@@ -10,9 +10,9 @@ Our college is one of the few enginnering colleges which offers this facility. T
 
 # MANUFACTURE TECHNIQUES
 [1. LASER PRINTING](https://arjunhari2704.github.io/LASER-CUTTER/)
-2. 3D PRINTER 
-3. CNC MACHINE
-4. VINYL PRINTING
+[2. 3D PRINTER](https://arjunhari2704.github.io/LASER-CUTTER/)
+[3. CNC MACHINE](https://arjunhari2704.github.io/LASER-CUTTER/)
+[4. VINYL PRINTING](https://arjunhari2704.github.io/LASER-CUTTER/)
 
 ## LASER PRINTING
 Laser cutting is a technology that uses a laser to cut materials, and is typically used for industrial manufacturing applications, but is also starting to be used by schools, small businesses, and hobbyists. Laser cutting works by directing the output of a high-power laser most commonly through optics. The laser optics and CNC (computer numerical control) are used to direct the material or the laser beam generated. A typical commercial laser for cutting materials would involve a motion control system to follow a CNC or G-code of the pattern to be cut onto the material. The focused laser beam is directed at the material, which then either melts, burns, vaporizes away, or is blown away by a jet of gas,[1] leaving an edge with a high-quality surface finish. Industrial laser cutters are used to cut flat-sheet material as well as structural and piping materials.
